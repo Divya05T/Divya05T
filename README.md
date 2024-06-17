@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divya05T
-- 👀 I’m interested in coading and programmingchi.
+- 👀 I’m interested in coading and programming.
 - 🌱 I’m currently learning Data structure and algorithm and oop's in java.
 - 💞️ I’m looking to collaborate on programming,coading and also customized drawings using autoCAD.
 - 📫 How to reach me :divyatajne4@gmail.com. you can contact me through this mail.thanks.
